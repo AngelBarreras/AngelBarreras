@@ -209,7 +209,7 @@
               <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/> 
             </a> 
             <a href="https://www.brain.js.org/" target="_blank" rel="noreferrer"> 
-              <img data-v-45a749fd="" src="https://brain.js.org/img/logo.svg" title="Brain" alt="Brain.js logo" width="128" height="128" class="bordered"></img>
+              <img data-v-45a749fd="" src="https://brain.js.org/img/logo.svg" title="Brain" alt="Brain.js" width="40" height="40" class="bordered"></img>
             </a> 
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
