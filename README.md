@@ -116,7 +116,7 @@
             <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
             </a> 
             <a href="https://blog.cambridgespark.com/unit-testing-with-pyspark-fb31671b1ad8/" target="_blank" rel="noreferrer">
-                          <img  src="https://i.pinimg.com/originals/97/e2/e1/97e2e161dafc63a9e98e5f350425ba39.png" text="PySpark" 
+                          <img  src="https://i.pinimg.com/originals/97/e2/e1/97e2e161dafc63a9e98e5f350425ba39.png" title="PySpark" 
               alt="Spark 2: How to install it on Windows in 5 steps – Doron Vainrub – Medium Apache Spark, Python, Company Logo, Windows, Medium, Ramen, Medium Long Hairstyles, Window" 
               class="hCL kVc L4E MIw" width="40" height="40" elementtiming="closeupImage" importance="auto" loading="auto"/>
             </a>
