@@ -8,11 +8,6 @@
 - 📫 How to reach me **angelandresbarreras@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/AngelBarreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="Linkedin" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left" className={classNames("text-center", { "text-dark": !dark, "text-light": dark })}>
                   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40" />
@@ -45,7 +40,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
                   </a >
                   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" >
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />
                   </a >
                   <a href="https://canvasjs.com/" target="_blank" rel="noreferrer" >
                     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" title="Canvasjs" alt="Canvasjs" width="40" height="40" />
@@ -57,7 +52,7 @@
                     <img src="https://www.chartjs.org/media/logo-title.svg" title="Chartjs" alt="Chartjs" width="40" height="40" />
                   </a >
                   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" >
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="c++" width="40" height="40" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />
                   </a >
                   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" >
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />
@@ -72,7 +67,7 @@
                     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" height="40" />
                   </a >
                   <a href="https://rethinkdb.com/" target="_blank" rel="noreferrer" >
-                    <img itemProp="contentUrl" className="image" src="https://www.kindpng.com/picc/m/500-5009856_rethink-db-hd-png-download.png" title="Rethink DB" alt="Rethink DB" width="40" height="40" />
+                    <img src="https://www.kindpng.com/picc/m/500-5009856_rethink-db-hd-png-download.png" title="Rethink DB" alt="Rethink DB" width="40" height="40" />
                   </a >
                   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" >
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
@@ -118,8 +113,8 @@
                   </a >
                   <a href="https://blog.cambridgespark.com/unit-testing-with-pyspark-fb31671b1ad8/" target="_blank" rel="noreferrer" >
                     <img src="https://miro.medium.com/max/1400/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark"
-                      alt="Spark 2: How to install it on Windows in 5 steps – Doron Vainrub – Medium Apache Spark, Python, Company Logo, Windows, Medium, Ramen, Medium Long Hairstyles, Window"
-                      width="40" height="40" />
+                      alt="PySpark"
+                      width="40" height="40" elementtiming="closeupImage" importance="auto" loading="auto" />
                   </a >
                   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />
@@ -167,7 +162,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40" />
                   </a >
                   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer" >
-                    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" title="Objectivec" alt="Objectivec" width="40" height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" title="Objective-C" alt="Objective-C" width="40" height="40" />
                   </a >
                   <a href="https://opencv.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="OpenCV" width="40" height="40" />
@@ -200,7 +195,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40" />
                   </a >
                   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" >
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" alt="Scikit_Learn" width="40" height="40" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40" />
                   </a >
                   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" title="Sketch" alt="Sketch" width="40" height="40" />
@@ -215,7 +210,7 @@
                     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40" />
                   </a >
                   <a href="https://www.brain.js.org/" target="_blank" rel="noreferrer" >
-                    <img data-v-45a749fd="" src="https://seeklogo.com/images/B/brain-js-logo-9EC27FB869-seeklogo.com.png" title="Next.js" alt="Next.js" className="detailLogoImage" title="Brain" alt="Brain.js" width="40" height="40" />
+                    <img data-v-45a749fd="" src="https://seeklogo.com/images/B/brain-js-logo-9EC27FB869-seeklogo.com.png" className="detailLogoImage" title="Brain.js" alt="Brain.js" width="40" height="40" />
                   </a >
                   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" >
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
