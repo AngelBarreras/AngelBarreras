@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [angelandresbarreras.vercel.app](angelandresbarreras.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, C#, .NET, Javascript, Java, Python, TypeScript, NodeJS, ReactJS**
+- 💬 Ask me about **HTML, CSS, C#, .NET, Javascript, Java, Python, TypeScript, NodeJS, NextJS, ReactJS**
 
 - 📫 How to reach me **angelandresbarreras@hotmail.com**
 
