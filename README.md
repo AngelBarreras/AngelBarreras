@@ -96,6 +96,15 @@
                   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40" />
                   </a >
+                  <a href="https://github.com/" target="_blank" rel="noreferrer" >
+                    <img src="https://github.com/fluidicon.png"  title="GitHub" alt="GitHub" width="40" height="40" />
+                  </a >
+                  <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer" >
+                    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudio2022.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />
+                  </a >
+                  <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer" >
+                    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
+                  </a >
                   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Apache Hadoop" alt="Apache Hadoop" width="40" height="40" />
                   </a >
