@@ -147,7 +147,7 @@
                     <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" title="Electronjs" alt="Electronjs" width="40" height="40" />
                   </a >
                   <a href="https://bun.sh/" target="_blank" rel="noreferrer" >
-                    <img src="https://camo.githubusercontent.com/cc7b5924f05d4f0743ce6d7969405545cb997e58dec5f9d5f8718011c7d446ae/68747470733a2f2f62756e2e73682f6c6f676f4032782e706e67" title="Bun.js" alt="Bun.js" data-canonical-src="https://bun.sh/logo@2x.png" width="40" height="40" />
+                    <img src="https://bun.sh/logo@2x.png"title="Bun.js" alt="Bun.js"  width="40" height="40" />
                   </a >
                   <a href="https://mariadb.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="MariaDB" alt="MariaDB" width="40" height="40" />
