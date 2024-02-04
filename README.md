@@ -123,7 +123,9 @@
                     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40" />
                   </a >
                   <a href="https://blog.cambridgespark.com/unit-testing-with-pyspark-fb31671b1ad8/" target="_blank" rel="noreferrer" >
-                    <img src="https://miro.medium.com/max/1400/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark" alt="PySpark width="40" />
+                    <img src="https://miro.medium.com/max/1400/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark"
+                      alt="PySpark"
+                      width="40" height="40" elementtiming="closeupImage" importance="auto" loading="auto" />
                   </a >
                   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />
@@ -147,7 +149,7 @@
                     <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" title="Electronjs" alt="Electronjs" width="40" height="40" />
                   </a >
                   <a href="https://bun.sh/" target="_blank" rel="noreferrer" >
-                    <img src="https://bun.sh/logo@2x.png"title="Bun.js" alt="Bun.js"  width="40" height="40" />
+                    <img src="https://bun.sh/logo@2x.png" title="Bun.js" alt="Bun.js" width="40" height="40" />
                   </a >
                   <a href="https://mariadb.org/" target="_blank" rel="noreferrer" >
                     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="MariaDB" alt="MariaDB" width="40" height="40" />
