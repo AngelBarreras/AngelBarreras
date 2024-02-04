@@ -236,7 +236,8 @@
                     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" title="Xamarin" alt="Xamarin" width="40" height="40" />
                   </a >
                   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer" >
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 234" width="45" height="48" />
+                    <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" title="Adobe XD" alt="Adobe XD" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 234" width="45" height="48"/>
+<!--                     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 234" width="45" height="48" /> -->
                   </a >
                   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40" />
