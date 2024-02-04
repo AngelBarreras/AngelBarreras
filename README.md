@@ -6,6 +6,8 @@
 - 💬 Ask me about **HTML, CSS, C#, .NET, Javascript, Java, Python, TypeScript, NodeJS, NextJS, ReactJS**
 
 - 📫 How to reach me **angelandresbarreras@hotmail.com**
+  
+- 🔗 Profile me [Linkedin](https://www.linkedin.com/in/angelbarreras)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" className={classNames("text-center", { "text-dark": !dark, "text-light": dark })}>
